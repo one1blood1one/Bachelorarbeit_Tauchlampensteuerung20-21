@@ -1,0 +1,2 @@
+# Bachelorarbeit_Tauchlampensteuerung20-21
+Entwicklung einer Mikrocontrollersteuerung für Halogenbrenner mit Lithiumionenbatterie Management
