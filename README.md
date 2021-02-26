@@ -1,5 +1,5 @@
 Dieses Repository gehört zur Bachelorarbeit von Dennis Sitnic. 
-Es enthält falls es nach Rücksprache freigegeben wird:
+Es enthält folgende Unterlagen:
 
 **Unterlagen:**
 - Bachelorarbeit PDF
